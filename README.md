@@ -12,3 +12,6 @@ This project simulates network traffic, records latency and packet loss in a SQL
 ## Usage
 1. Run `network_simulation.py` to generate database.
 2. Run `analyze_packets.py` to analyze and plot results.
+
+## Example Latency Distribution
+[Latency Distribution](screenshots/latency_histogram.png)
