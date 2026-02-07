@@ -14,4 +14,4 @@ This project simulates network traffic, records latency and packet loss in a SQL
 2. Run `analyze_packets.py` to analyze and plot results.
 
 ## Example Latency Distribution
-[Latency Distribution](screenshots/latency_histogram.png)
+![Latency Distribution](screenshots/latency_histogram.png)
